@@ -1,5 +1,5 @@
 # Petlik
-Realization of programming language "Petlik". Programme reads the code and generate code on virtual machine which optimises and executes it.
+Realization of programming language "Petlik" Programme reads the code and generate code on virtual machine which optimises and executes it.
 
 Grammar of "Petlik":
 ```
